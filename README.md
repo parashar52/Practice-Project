@@ -13,3 +13,10 @@ The following columns: GDP per Capita, Family, Life Expectancy, Freedom, Generos
 The Dystopia Residual metric actually is the Dystopia Happiness Score(1.85) + the Residual value or the unexplained value for each country.
 The Dystopia Residual is already provided in the dataset. 
 If you add all these factors up, you get the happiness score so it might be un-reliable to model them to predict Happiness Scores.
+
+
+Titanic survived Project
+Project Description
+The Titanic Problem is based on the sinking of the ‘Unsinkable’ ship Titanic in early 1912. It gives you information about multiple people like their ages, sexes, sibling counts, embarkment points, and whether or not they survived the disaster. 
+Based on these features, you have to predict if an arbitrary passenger on Titanic would survive the sinking or not. 
+
